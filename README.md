@@ -1,2 +1,2 @@
 # C-programming
-learning to code 
+This repository contains C-programming files. 
